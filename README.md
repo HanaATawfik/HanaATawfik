@@ -5,6 +5,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hana-tawfik-08765924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HanaATawfik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sarawalid931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarawalid931" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/HanaBanana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="HanaATawfik" height="30" width="40" /></a>
 </p>
 
